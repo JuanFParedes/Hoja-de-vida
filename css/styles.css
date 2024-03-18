@@ -1,0 +1,60 @@
+@import url('https://fonts.googleapis.com/css2?family=Onest:wght@100..900&display=swap');
+#Container{
+    display: flex;
+    font-family: "Onest", sans-serif;
+    font-weight: 600;
+}
+.Info{
+    padding: 18px;
+    background-color: white;
+}
+.Estudios{
+    padding: 18px;
+    background-color: #DCDCE1;
+}
+.Lenguajes{
+    padding: 18px;
+    background-color: white;
+}
+.Subtitle{
+    text-align: left;
+    background-color:#77808F;
+    font-weight: 500;
+    font-family: "Onest", sans-serif;
+    width: 150px;
+}
+.Study{
+    text-align: left;
+    background-color:#77808F;
+    font-weight: 500;
+    font-family: "Onest", sans-serif;
+    width: 200px;
+}
+.R_S{
+    text-align: left;
+    background-color:#77808F;
+    font-weight: 500;
+    font-family: "Onest", sans-serif;
+    width: 250px;
+}
+.Info_contacto{
+    text-align: left;
+    background-color:#77808F;
+    font-weight: 500;
+    font-family: "Onest", sans-serif;
+    width: 300px;
+}
+a:active{
+    color: black;
+    text-decoration: underline;
+    background-color: white;
+}
+a:visited{
+    color: black;
+    text-decoration: none;
+}
+
+.Profile{
+    width: 250px;
+    text-align: center;
+}
